@@ -1,0 +1,28 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.4.1)
+  - Alamofire (4.9.1)
+  - SwiftGifOrigin (1.7.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - Alamofire
+  - SwiftGifOrigin
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - ActionSheetPicker-3.0
+    - Alamofire
+    - SwiftGifOrigin
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: d236f0b663123e4b404a3bc04b338c1e805ac910
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  SwiftGifOrigin: fbd6cf37afcfcf97a5c3db996ddc0492e5c5c145
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: d0f37bbebbce93788622375011ea593e4d674e1a
+
+COCOAPODS: 1.8.4
